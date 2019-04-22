@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="78045" started-at="2019-04-19T09:02:56Z" finished-at="2019-04-19T09:04:14Z">
+    <groups>
+    </groups>
+    <test name="MH&amp;Click" duration-ms="78045" started-at="2019-04-19T09:02:56Z" finished-at="2019-04-19T09:04:14Z">
+      <class name="scripts.ClickSignIn">
+        <test-method status="PASS" signature="openAppln()[pri:0, instance:scripts.ClickSignIn@33a10788]" name="openAppln" is-config="true" duration-ms="56008" started-at="2019-04-19T14:33:12Z" finished-at="2019-04-19T14:34:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAppln -->
+        <test-method status="PASS" signature="testClickSignIn()[pri:0, instance:scripts.ClickSignIn@33a10788]" name="testClickSignIn" duration-ms="5500" started-at="2019-04-19T14:34:08Z" finished-at="2019-04-19T14:34:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClickSignIn -->
+        <test-method status="PASS" signature="closeAppln()[pri:0, instance:scripts.ClickSignIn@33a10788]" name="closeAppln" is-config="true" duration-ms="0" started-at="2019-04-19T14:34:14Z" finished-at="2019-04-19T14:34:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAppln -->
+      </class> <!-- scripts.ClickSignIn -->
+      <class name="scripts.MHSignIn">
+        <test-method status="PASS" signature="openAppln()[pri:0, instance:scripts.MHSignIn@7bb11784]" name="openAppln" is-config="true" duration-ms="16099" started-at="2019-04-19T14:32:56Z" finished-at="2019-04-19T14:33:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAppln -->
+        <test-method status="PASS" signature="testclickSignIn()[pri:0, instance:scripts.MHSignIn@7bb11784]" name="testclickSignIn" duration-ms="422" started-at="2019-04-19T14:33:12Z" finished-at="2019-04-19T14:33:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testclickSignIn -->
+        <test-method status="PASS" signature="closeAppln()[pri:0, instance:scripts.MHSignIn@7bb11784]" name="closeAppln" is-config="true" duration-ms="0" started-at="2019-04-19T14:33:12Z" finished-at="2019-04-19T14:33:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAppln -->
+      </class> <!-- scripts.MHSignIn -->
+    </test> <!-- MH&Click -->
+  </suite> <!-- Suite -->
+</testng-results>
